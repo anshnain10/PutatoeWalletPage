@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PutatoeWalletClone</string>
+    <string name="send_money_to_bank">Send Money \n To Bank</string>
+    <string name="redeem_as_credit">Redeem \nas Credit</string>
+    <string name="add_money">Add \nMoney</string>
+    <string name="no_bank_accounts">No Bank \nAccounts!</string>
+    <string name="please_add_a_bank_account">Please add a Bank \nAccount</string>
+</resources>
